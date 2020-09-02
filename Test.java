@@ -4,6 +4,8 @@ public class Test{
  {
      starPattern(5);
      starPattern(10);
+     starPattern(8);
+     
  }
 
 
